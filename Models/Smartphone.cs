@@ -2,8 +2,6 @@ namespace DesafioPOO.Models
 {
     public abstract class Smartphone
     {
-        
-
         public string Numero { get; set; }
 
         // Implementado - Implementar as propriedades faltantes de acordo com o diagrama
